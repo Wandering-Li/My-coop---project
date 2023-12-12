@@ -12,12 +12,17 @@ This is the layout of the product's interactive GUI
 
 
 
+
 This is some drawer and some menu to allow user to config the parameters and open files
 ![image](https://github.com/Wandering-Li/My-coop---project/assets/86272490/446918e8-6655-459a-92a5-a641e9e481c5)
 
 
+
+
 This shows the view menu, user can costomize the layout and save/load the preference.
 ![image](https://github.com/Wandering-Li/My-coop---project/assets/86272490/2acdddb9-f6b9-46a9-89db-3130b345bb36)
+
+
 
 
 This shows that the app can open several child window
