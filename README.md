@@ -8,7 +8,7 @@ This project have used library including graphic library "plotly" ,layout librar
 
 
 This is the layout of the product's interactive GUI
-![image](https://github.com/Wandering-Li/My-coop---project/assets/86272490/6d1f4ce6-01a6-4973-af5f-6b0d19053de3)
+![image](https://github.com/Wandering-Li/My-coop---project/assets/86272490/cac5ca12-a92c-4ba2-9912-764e9e91d890)
 
 
 
